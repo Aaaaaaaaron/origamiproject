@@ -1,0 +1,7 @@
+Functions:
+
+Left click once to place down a vertex, a preview will then follow the cursor showing where 
+you can left click again to add an edge
+
+Right click once on a vertex to move it
+Quick Note: Be careful about rapid clicks in succesion, the browser may interpret this as a double click and produce nothing as a result
